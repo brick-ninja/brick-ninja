@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
+date: '2021-06-30'
 title: 'Senior Full Stack Developer'
-company: 'Upwork and Fiverr'
-location: 'United States'
-range: 'Nov 2020 - Present'
-url: 'https://autoleaseninjas.net/'
+company: 'Upwork'
+location: 'Santa Clara, CA, United States'
+range: '05/2016 - Present'
+url: 'https://upwork.com'
 ---
 
-- Participated in Scrum meetings where we would demo all the user stories done during that iteration for final feedback from end-users.
-- Involved in gathering business requirements from the end-user & prepared System Requirement Specification documents.
-- Involved in the Design phase by designing various UML models like Use Case, Class, Sequence & State Chat Diagrams.
-- Developed many company's websites using JavaScript Frameworks for my clients - MERN stack, MEAN stack.
+- Worked with clients from various industries, ranging from startups to multinational companies with an interest in contruction, automobiles, health, etc,
+- Involved in gathering business requirements from the end-user & prepared System Requirement Specification documents,
+- Mainly involved in technologies like React, Vue, Angular for web development, React Native for mobile development, and API integration,
+- Managed a team of 3 freelancer web developers and designers, taned and educated other web developers, measured the performance of the team,
