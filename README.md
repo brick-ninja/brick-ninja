@@ -11,5 +11,8 @@ David Liang, who is a high-skilled web developer with extensive experience in th
 - 👍 In-depth understanding of many web development skills
 - 👍 Capable of working within specific timelines and deadlines
 
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=davidliang0424)
+
+
 ![languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sanjanadhikari1&langs_count=10&layout=compact)
