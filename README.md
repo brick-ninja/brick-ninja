@@ -13,4 +13,4 @@ David Liang, who is a high-skilled web developer with extensive experience in th
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=davidliang0424)
 
-![Personal Website](https://davidliang0424.herokuapp.com/)
+![Github stats](https://davidliang0424.herokuapp.com)
