@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'David Liang',
+    title: 'Brick Ninja',
     description:
       'David Liang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://sakarpoudel.com', // No trailing slash allowed!
+    siteUrl: 'https://brick-ninja.herokuapp.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@sakarpoudel',
+    twitterUsername: '@brickninja',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,7 +20,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: '',
-        short_name: 'xiaocheng',
+        short_name: 'brickninja',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
@@ -53,8 +53,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `projects`,
-        path: `${__dirname}/content/projects`,
+        name: `portfolio`,
+        path: `${__dirname}/content/portfolio`,
       },
     },
     {

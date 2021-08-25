@@ -116,7 +116,7 @@ const StyledPic = styled.div`
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.jpg" }) {
+      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.png" }) {
         childImageSharp {
           fluid(maxWidth: 500, traceSVG: { color: "#64ffda" }) {
             ...GatsbyImageSharpFluid_withWebp_tracedSVG
@@ -137,11 +137,9 @@ const About = () => {
     'React, Next.js',
     'React Native',
     'Vue, Vuex, Nuxt.js',
-    'Angular',
     'Node.js, Express.js',
     'GraphQL, Apollo',
     'PHP, Laravel',
-    'Python, Django',
     'MySQL, MongoDB',
     'DevOps, AWS, Firebase',
     'Git, Docker',
@@ -155,21 +153,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I am a full stack developer with over 5 years of experience who is proficient in
-              modern JavaScript and frameworks like React/Redux, Next.js, Gatsby.js, Vue.js,
-              Nuxt.js, TypeScript, Node.js/Express.js and much more.
+              Roller Coaster runs alongside railway. Once it breaks the route of it, it will be
+              broken. As the same way, for coders, keeping standard rule throughout the project is
+              the most important
             </p>
 
             <p>
-              One of my strong points is integrating 3rd party API such as social(Facebook, Twitter,
-              Gmail), Firebase, Twillio, Payment Gateway, Hubspot, Quickbooks, OAuth, AuthO, WebRTC
-              and integrating AWS(Lambda, DynamoDB, EC2, S3, Elastic Beanstalk, Amplify, Cognito).
+              It keeps project clean and good structure. I'm strict coder who has a lot of
+              experience in web development. I can't stand when I'm seeing the dirty and mess code
+              in the project.
             </p>
 
             <p>
-              Shortly after graduating from The University of Southern Mississippi, I joined the
-              Upwork and Fiverr.
+              I'm Brick Ninja from China, who has over 6 years experience in web development. I like
+              coding and coding is my life. Without coding, we can't imagine all things in our life
             </p>
+
+            <p>--Brick Ninja --</p>
 
             <p>Here are a few technologies I've been working with recently:</p>
           </div>

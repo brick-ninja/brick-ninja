@@ -1,7 +1,7 @@
 ---
 date: '2020-01-10'
 title: 'Travel Place'
-github: 'https://github.com/poudelsakar1/travel-place'
+github: ''
 external: 'https://time-to-have-more-fun.now.sh/'
 tech:
   - Next.js

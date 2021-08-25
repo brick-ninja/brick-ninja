@@ -7,6 +7,7 @@ range: '10/2020 - Present'
 url: 'https://idealabkids.com/'
 ---
 
-- Formulated and implement improvements on cleanup processes and performance, minimizing downtime by 10%,
-- Diagnosed and troubleshoot different websites of the company's critical clients by deploying updated knowledge of the modern technologies and techniques in the industry,
-- Converted all the websites(admin portal, teacher's portal) to React and Firebase stack.
+- Changing UI of all the portals of the steamhub project and updating the features of this project.,
+- Doing customer support for the steamhub and fixing issues from them,
+- Converting all the websites (steamhub editor, steamhub teacher, steamhub admin) to MERN stack basis,
+- Boost loading speed and fixed the SEO issue by using Next.js.

@@ -52,8 +52,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">Full Stack Developer</h3>;
   const four = (
     <p>
-      I'm a software engineer based in China(ShenZhen) specializing in building (and occasionally
-      designing) exceptional , high-quality web & mobile(RN) applications.
+      I'm a software engineer based in HuiZhou(惠州), China specializing in building (and
+      occasionally designing) exceptional , high-quality web & mobile(RN) applications.
     </p>
   );
   const five = (

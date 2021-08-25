@@ -11,4 +11,4 @@ company: 'Upstatement'
 showInProjects: true
 ---
 
-Freelancer's Website based on Services. Customer can find their best services here and can hire freelancer for their tight buget.
+Freelancer's Website based on Services. Customer can find their best services here and can hire freelancer for their tight budget.
