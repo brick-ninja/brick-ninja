@@ -1,4 +1,4 @@
-# David Liang
+Brick Ninja - JavaScript Full Stack Developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brick-ninja&show_icons=true&theme=radical)
 
