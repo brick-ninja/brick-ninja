@@ -1,4 +1,3 @@
-### David Liang
 #### Senior Full Stack JavaScript Developer
 ![Senior Full Stack JavaScript Developer](https://i.pinimg.com/736x/23/55/cd/2355cd02b42ca6ea2dedf59c5af36e67.jpg)
 
